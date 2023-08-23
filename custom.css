@@ -69,6 +69,18 @@
 .overlay h2 {
     margin-bottom: 10px;
 }
+.vik{
+    text-align: center;
+    background-color: aqua;
+}
+.cn{
+    width: auto;
+    max-height: 500px;
+    background-color: bisque;
+    text-align: center;
+    align-items: normal;
+    margin :auto;
+}
 
 #search {
     width: 500px;
